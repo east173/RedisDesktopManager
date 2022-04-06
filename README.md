@@ -1,6 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
-
 ## [RESP.app - GUI for Redis &reg; (Formerly RedisDesktopManager)](https://resp.app "RESP.app Official Site")
 
 [Install & Run](http://docs.resp.app/en/latest/install/) | 
